@@ -1,8 +1,26 @@
 # ShongiBot — Cultural Companion Robot
 
+## Project Team
+
+**Team Name:** Circuit Breakers
+
+### Team Members
+
+* **Omor** — Team Leader
+* **Wadi** — Team Member
+* **Mahir** — Team Member
+
+---
+
 ## 1. Project Title
 
 **ShongiBot — A Cultural Companion for Bangladesh**
+
+**Project Focus:** Preserving and promoting Bangladeshi cultural heritage through robotics and interactive technology.
+
+**Current Development Stage:** Stationary cultural companion with conversational interaction, display, and servo-controlled hand movement.
+
+**Future Vision:** An autonomous cultural companion capable of movement, obstacle avoidance, and interactive cultural education.
 
 ---
 
@@ -88,7 +106,7 @@ ShongiBot is designed to interact with people rather than simply display informa
 
 A user can ask a question, and ShongiBot can respond with information related to Bangladeshi culture.
 
-For example:
+### Example
 
 **User:**
 "What is terracotta art?"
@@ -191,8 +209,6 @@ It is responsible for higher-level functions such as:
 * Handling communication.
 * Controlling or communicating with other electronic systems.
 
-The Raspberry Pi 4 provides the computing platform required for the robot's conversational and future AI functions.
-
 ---
 
 ## Arduino Nano
@@ -228,8 +244,6 @@ It can show:
 * Text.
 * Animations.
 * Reactions while talking.
-
-The display can help make the robot feel more like a companion.
 
 ---
 
@@ -443,8 +457,6 @@ Future mechanical improvements could potentially allow:
 * Expressive gestures.
 * Coordinated body movements.
 
-The exact movement capabilities will depend on the final mechanical design.
-
 ---
 
 # 14. Future Autonomous ShongiBot
@@ -492,28 +504,28 @@ A simplified system could work as follows:
              ENVIRONMENT
                   │
                   ▼
-          ┌───────────────┐
-          │    SENSORS    │
-          │ Detect Objects│
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │ Raspberry Pi / │
-          │    Arduino    │
-          │ Make Decision │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │ Motor Control │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │   Movement    │
-          │ Avoid Object  │
-          └───────────────┘
+           ┌───────────────┐
+           │    SENSORS    │
+           │ Detect Objects│
+           └───────┬───────┘
+                   │
+                   ▼
+           ┌───────────────┐
+           │ Raspberry Pi /│
+           │    Arduino   │
+           │ Make Decision│
+           └───────┬───────┘
+                   │
+                   ▼
+           ┌───────────────┐
+           │ Motor Control │
+           └───────┬───────┘
+                   │
+                   ▼
+           ┌───────────────┐
+           │   Movement    │
+           │ Avoid Object  │
+           └───────────────┘
 ```
 
 ---
@@ -614,22 +626,3 @@ However, even as the technology becomes more advanced, the project's central pri
 > **Culture comes first. Technology supports the culture.**
 
 The ultimate vision is to create a friendly autonomous robot that can **talk with people, teach them about Bangladesh's cultural heritage, preserve cultural knowledge, and help future generations reconnect with their culture.**
-
-### Project Summary
-
-| Feature                   | Current |      Future |
-| ------------------------- | ------: | ----------: |
-| Cultural purpose          |       ✅ |           ✅ |
-| Cultural questions        |       ✅ |           ✅ |
-| Cultural responses        |       ✅ |           ✅ |
-| Voice interaction         |       ✅ |    Improved |
-| Display                   |       ✅ |    Improved |
-| Hand movement             |       ✅ |    Expanded |
-| Wheels                    |       ❌ |           ✅ |
-| Drive motors              |       ❌ |           ✅ |
-| Mobile movement           |       ❌ |           ✅ |
-| Head/body movement        |       ❌ |     Planned |
-| Autonomous navigation     |       ❌ |           ✅ |
-| Obstacle avoidance        |       ❌ |           ✅ |
-| Cultural knowledge        |       ✅ |    Expanded |
-| Full autonomous companion |       ❌ | Future Goal |
