@@ -1,5 +1,5 @@
 ShongiBot — Cultural Companion Robot
-Updated Project Documentation
+
 Project Team: Circuit Breakers
 Omor — Team Leader  |  Wadi — Team Member  |  Mahir — Team Member
 1. Project Overview
