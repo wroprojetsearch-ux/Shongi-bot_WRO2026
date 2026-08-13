@@ -1,6 +1,7 @@
 ShongiBot — Cultural Companion Robot
 
 Project Team: Circuit Breakers
+
 Omor — Team Leader  |  Wadi — Team Member  |  Mahir — Team Member
 1. Project Overview
 ShongiBot is a cultural companion robot designed to interact with people, answer questions, communicate through voice, and introduce users to aspects of Bangladeshi culture. The project combines robotics, artificial intelligence, voice interaction, and cultural education into one interactive robot.
