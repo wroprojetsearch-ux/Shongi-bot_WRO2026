@@ -131,7 +131,55 @@ The team is currently focusing on making the main interaction system work reliab
     
 The long-term goal is to develop ShongiBot into a fully interactive autonomous cultural companion. The final version should be able to communicate with people, answer questions in Bangla, move around independently, detect obstacles, interact physically through its hands, and provide cultural information in an engaging way.
 Music and Bangladeshi song playback will also be considered as a future entertainment and cultural feature, but it is not part of the robot's current capabilities.
-15. Conclusion
+
+15.Tables
+
+Component	Quantity	Status
+Raspberry Pi 4	1	Current
+Camera	1	Current
+Speaker	1	Current
+Display	1	Current
+Battery	1	Current
+Servo Motors	—	Not installed
+Wheels	4	Future
+Drive Motors	4	Future
+Ultrasonic Sensor	—	Future / being considered
+
+Feature	                           Current Status	                   Notes
+AI Voice Interaction -	              ✅ Working	       Can receive questions and respond
+Bangla Q&A -	                       ✅ Working	        Answers users in Bangla
+Camera / Audio Input	-                 ✅ Working	        Current input setup
+Front Display 	                       ✅ Working	       Used as part of the interface
+Hand Movement	                   ❌ Not Implemented	     Servo motors are not installed
+Wheels	                            ❌ Not Installed	      Planned for future 
+Drive Motors	                      ❌ Not Installed	        4 motors planned
+Autonomous Driving	             ❌ Not Implemented	     Future development
+Obstacle Avoidance	              ❌ Not Implemented	     Sensor system planned
+Song Playback	                      ❌ Not Available	     Planned as a future feature
+
+
+Component	             Quantity      Status
+
+Raspberry Pi 4            	1	         Current
+Camera	                  1	         Current
+Speaker	                  1	         Current
+Display	                  1	         Current
+Battery	                  1	         Current
+Servo Motors	—	           Not installed
+Wheels	                  4	         Future
+Drive Motors	            4	         Future
+Ultrasonic Sensor	—	                  Future
+
+
+16.Team role 
+
+Omar - Helped in physical and coding 
+Wadi - Coding and Physical 
+Mahir - Documentation and 3D model for framing the robot .
+
+
+
+17. Conclusion
 
 ShongiBot is a developing robotics project created by Circuit Breakers with the goal of combining artificial intelligence, robotics, voice interaction, and Bangladeshi cultural education.
 The current prototype demonstrates voice-based interaction, Bangla question answering, camera/audio input, a front display, hand movement, and a 3D-printed robot enclosure. The photographs in this documentation record the current hardware prototype and internal electronics during development.
